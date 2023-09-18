@@ -24,14 +24,15 @@ A Python-based tool for scanning ports on a target host to identify potential en
 1. Clone the repository:
 
 Type on the terminal
-   git clone https://github.com/your-username/python-port-scanner.git
-   cd python-port-scanner
+git clone https://github.com/your-username/python-port-scanner.git
+cd python-port-scanner
    
 2. Run the port scanning tool:
 
-Type on the terminal
-   python port_scanner.py <target_host> <start_port> <end_port>
-      (Replace <target_host> with the host you want to scan, <start_port> with the starting port, and <end_port> with the ending port.)
+python port_scanner.py <target_host> <start_port> <end_port>
+
+(Replace <target_host> with the host you want to scan, <start_port> with the starting port, and <end_port> with the ending port.)
+
 Example:
 python port_scanner.py localhost 1 1024
 
@@ -41,12 +42,14 @@ python port_scanner.py localhost 1 1024
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/python-port-scanner.git
-   cd python-port-scanner
+git clone https://github.com/your-username/python-port-scanner.git
+
+cd python-port-scanner
+
    
 2. Install the required dependencies:
 
-   pip install -r requirements.txt
+pip install -r requirements.txt
 
 
    
