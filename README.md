@@ -23,7 +23,6 @@ A Python-based tool for scanning ports on a target host to identify potential en
 
 1. Clone the repository:
 
-Type on the terminal
 git clone https://github.com/your-username/python-port-scanner.git
 cd python-port-scanner
    
